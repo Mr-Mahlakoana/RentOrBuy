@@ -4,7 +4,7 @@ A real estate app where you can buy or rent a home,this app is build with nextjs
 
 ## Demo Website
 
-👉 Demo :
+👉 Demo :https://rent-or-buy-tau.vercel.app
 
 ![Real Estate](mobile.png)
 
